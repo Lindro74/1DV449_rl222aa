@@ -1,0 +1,78 @@
+Seminarium 01
+=============
+
+Webben & integritet
+-------------------
+
+**Vad ser jag för faror för den personliga intefriteten?**
+
+Personligen ser jag inga direkta faror med integriteten på webben, det är fortfarande upp till en var att göra
+sina egna inställningar, delge sin egna information osv. Vill inte jag att ”alla” som jag INTE är vän med på
+ex. FB(Facebook) ska kunna läsa om vad jag gör, vem jag är, var jag jobbar osv. , så sätter jag in inställning på det.
+
+Vill jag fortfarande ha en öppen profil på FB så väljer jag istället att INTE ange var jag jobbar, var jag bor, 
+vilket mobiltelefonnummer jag har osv.
+Jag har inget att dölja, så mig får gärna FRA kolla hur mycket dom vill. 
+
+Big Data
+--------
+
+**Vad betyder det?**
+
+Stora datamängder skapas via kommunikationstjänster med många användare som utgörs av digitalt lagrad information
+i storleksordningen terabye och petabyte. En vanlig lagringsplats inom Big-Data är NoSQL-db.
+
+Stora företag samlar information
+--------------------------------
+
+**Fördel:** Målriktad reklam, jag får den reklamen som jag är intresserad av, då den oftast baseras på min "Surf-historik".
+**Nckdel:** ÄNNU mer reklam att läsa, alla webbsidor jag besöker loggas för målriktad reklam. Kanske inte så roligt för
+sambon/frun att få en massa porr-reklam i brevlådan om dens partner har surfat runt på sådana sidor.
+
+
+Storebror på FB
+---------------
+**Mina tankar** 
+För en person som inte har något att dölja ser inte jag något problem i att vara öppen på sociala medier. Visst, att man ska
+tänka sig för på vad man skriver, vilka bilder man förmedlar och vilken information man delar.
+Att kriminella personer(oavsett storlek eller grad på lagöverträdelse) är så pass korkade att dom skryter om saker och ting
+på socialamedier är ju nästan att se som en fördel i att få fast dom.
+Att vi Svenskar delar information frisk på sociala medier, tror jag är en gammal kvarleva att "Det händer inte mig!"
+Nej, vi har varit väldigt förskonade inom grov kriminalitet i Sverige. Men vi kanske måste börja tänka om och då kan ett steg
+vara att "inte" tala om på twitter eller FB var man är, vad man köper eller vad man äger för saker.
+Personer med höga poster inom framgångsrika företag kanske behöver tänka över vad dom delar för information gällande sin partner,
+barn eller nära släktingar, då dessa kan ligga i riskzonen för en ev kidknappning i utpressningssyfte.
+Det kan röra sig både om text och bilder.
+
+
+Fallstudie
+----------
+**Coursepress**
+Med tanke på vad och vilka aktiviteter som går att utföra på Coursepress, så tror jag inte att ens NSA skulle bli speciellt 
+upphetsade över att få tillgång till en ev logg. Det är ju knappast ett socialt medida där man skriver om eller lägger upp 
+en bild på vad man äter, som nu är så populärt(vet ifan varför)....
+
+
+Webbskrapning
+-------------
+**Problem - Webbplatsägare** 
+
+1	Information kan misstolkas, klistras ihop med annan information och syftet blir ett helt annat
+2	Bilder kan kopieras och användas på ett otillåtet sätt
+3	Enkelt att skaffa underrättelsematerial som kan användas i kriminell verksamhet.
+
+**Problem - Webbutveklare**
+
+1	Kräver ett fortlöpande underhåll, då sidor kan försvinna byta adress eller helt byggas om.
+2	Bristande källinformation -> felaktig information -> förtalsgrunder..
+3	Stöld av sidor, plagiat som säljs billigare, hmmmmm...hmmm...
+
+
+Etikregler gällande skrapning
+-----------------------------
+Ägarens tillåtelse innan man använder sig av bilder som är skrapade.
+Tillåtelse att använda sig av personlig eller känslig information.
+Alltid ange informationens ursprung och vara tydlig med att tala om att man har skrapat.
+Skrapa inte information som kan uppfattas som, eller som är kränkande för någon.
+Att inte begå brottlslig handling med eller om den skrapade informationen.
+
